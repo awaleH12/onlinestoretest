@@ -4,9 +4,13 @@
   box-sizing: border-box;
 }
 
+
 .section{
   margin-block: 5rem 3rem;
-  background: #f7f7ff;
+  background-image: url(/img/transparency20-01.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 1rem;
 }
 

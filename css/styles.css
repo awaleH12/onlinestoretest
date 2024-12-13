@@ -7,7 +7,7 @@
 
 .section{
   margin-block: 5rem 3rem;
-  background-image: url(/img/transparency20-01.png);
+  background-image: url("/img/transparency20-01.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
